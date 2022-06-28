@@ -1,0 +1,15 @@
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\obj\Debug\net6.0\Problema-produto.csproj.AssemblyReference.cache
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\obj\Debug\net6.0\Problema-produto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\obj\Debug\net6.0\Problema-produto.AssemblyInfoInputs.cache
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\obj\Debug\net6.0\Problema-produto.AssemblyInfo.cs
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\obj\Debug\net6.0\Problema-produto.csproj.CoreCompileInputs.cache
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\bin\Debug\net6.0\Problema-produto.exe
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\bin\Debug\net6.0\Problema-produto.deps.json
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\bin\Debug\net6.0\Problema-produto.runtimeconfig.json
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\bin\Debug\net6.0\Problema-produto.dll
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\bin\Debug\net6.0\Problema-produto.pdb
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\obj\Debug\net6.0\Problema-produto.dll
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\obj\Debug\net6.0\refint\Problema-produto.dll
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\obj\Debug\net6.0\Problema-produto.pdb
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\obj\Debug\net6.0\Problema-produto.genruntimeconfig.cache
+C:\Users\cliente\OneDrive\Área de Trabalho\Programas C#\Exercicos Curso Udemy\Classes\Problema-produto\obj\Debug\net6.0\ref\Problema-produto.dll

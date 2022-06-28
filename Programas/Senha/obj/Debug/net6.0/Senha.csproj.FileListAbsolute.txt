@@ -1,0 +1,15 @@
+C:\Users\cliente\Desktop\Programas C#\Senha\obj\Debug\net6.0\Senha.csproj.AssemblyReference.cache
+C:\Users\cliente\Desktop\Programas C#\Senha\obj\Debug\net6.0\Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\Desktop\Programas C#\Senha\obj\Debug\net6.0\Senha.AssemblyInfoInputs.cache
+C:\Users\cliente\Desktop\Programas C#\Senha\obj\Debug\net6.0\Senha.AssemblyInfo.cs
+C:\Users\cliente\Desktop\Programas C#\Senha\obj\Debug\net6.0\Senha.csproj.CoreCompileInputs.cache
+C:\Users\cliente\Desktop\Programas C#\Senha\bin\Debug\net6.0\Senha.exe
+C:\Users\cliente\Desktop\Programas C#\Senha\bin\Debug\net6.0\Senha.deps.json
+C:\Users\cliente\Desktop\Programas C#\Senha\bin\Debug\net6.0\Senha.runtimeconfig.json
+C:\Users\cliente\Desktop\Programas C#\Senha\bin\Debug\net6.0\Senha.dll
+C:\Users\cliente\Desktop\Programas C#\Senha\bin\Debug\net6.0\Senha.pdb
+C:\Users\cliente\Desktop\Programas C#\Senha\obj\Debug\net6.0\Senha.dll
+C:\Users\cliente\Desktop\Programas C#\Senha\obj\Debug\net6.0\refint\Senha.dll
+C:\Users\cliente\Desktop\Programas C#\Senha\obj\Debug\net6.0\Senha.pdb
+C:\Users\cliente\Desktop\Programas C#\Senha\obj\Debug\net6.0\Senha.genruntimeconfig.cache
+C:\Users\cliente\Desktop\Programas C#\Senha\obj\Debug\net6.0\ref\Senha.dll
