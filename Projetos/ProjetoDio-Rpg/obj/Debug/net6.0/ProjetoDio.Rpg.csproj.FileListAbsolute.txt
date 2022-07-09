@@ -1,0 +1,15 @@
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\obj\Debug\net6.0\ProjetoDio.Rpg.csproj.AssemblyReference.cache
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\obj\Debug\net6.0\ProjetoDio.Rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\obj\Debug\net6.0\ProjetoDio.Rpg.AssemblyInfoInputs.cache
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\obj\Debug\net6.0\ProjetoDio.Rpg.AssemblyInfo.cs
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\obj\Debug\net6.0\ProjetoDio.Rpg.csproj.CoreCompileInputs.cache
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\bin\Debug\net6.0\ProjetoDio.Rpg.exe
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\bin\Debug\net6.0\ProjetoDio.Rpg.deps.json
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\bin\Debug\net6.0\ProjetoDio.Rpg.runtimeconfig.json
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\bin\Debug\net6.0\ProjetoDio.Rpg.dll
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\bin\Debug\net6.0\ProjetoDio.Rpg.pdb
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\obj\Debug\net6.0\ProjetoDio.Rpg.dll
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\obj\Debug\net6.0\refint\ProjetoDio.Rpg.dll
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\obj\Debug\net6.0\ProjetoDio.Rpg.pdb
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\obj\Debug\net6.0\ProjetoDio.Rpg.genruntimeconfig.cache
+C:\Users\cliente\OneDrive\Área de Trabalho\Programação\C#\Projetos\ProjetoDio-Rpg\obj\Debug\net6.0\ref\ProjetoDio.Rpg.dll
